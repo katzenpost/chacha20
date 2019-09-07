@@ -28,6 +28,9 @@ import (
 )
 
 const (
+	// BlockSize is the size of a ChaCha20 block in bytes.
+	BlockSize = api.BlockSize
+
 	// KeySize is the ChaCha20 key size in bytes.
 	KeySize = 32
 
