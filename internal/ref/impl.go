@@ -20,7 +20,7 @@ import (
 	"encoding/binary"
 	"math/bits"
 
-	"gitlab.com/yawning/chacha20.git/internal/api"
+	"github.com/katzenpost/chacha20/internal/api"
 )
 
 const rounds = 20

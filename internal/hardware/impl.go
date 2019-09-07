@@ -16,7 +16,7 @@
 // Package hardware provides the hardware accelerated ChaCha20 implementations.
 package hardware
 
-import "gitlab.com/yawning/chacha20.git/internal/api"
+import "github.com/katzenpost/chacha20/internal/api"
 
 var hardwareImpls []api.Implementation
 
